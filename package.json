@@ -1,0 +1,23 @@
+{
+  "name": "manager",
+  "version": "0.0.1",
+  "description": "ALTYAPININ SAHİBİ = んKeevz#9915",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ege",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node.js": "^0.0.1-security",
+    "quick.db": "^7.1.3",
+    "useful-tools": "^0.2.6",
+    "wio.db": "^4.0.17"
+  },
+  "keywords": []
+}
